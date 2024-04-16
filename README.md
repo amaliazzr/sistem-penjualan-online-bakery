@@ -8,10 +8,20 @@ UNTUK MASUK HALAMAN ADMIN SILAHKAN MASUK DENGAN MENAMBAHKAN /admin di akhir URL
 https://github.com/RafyMrX/TOKO-ONLINE-ROTI
 
 # Perbandingan
-1. Halaman "Home"
+1. Footer dan Header
 
-   Terdapat perbedaan warna header dan footer dari tampilan halaman.
    Tampilan menu pada header terdapat peringkasan yaitu pada menu "manual aplikasi" dan menu "tentang kami" menjadi menu "informasi" pada sistem yang baru.
+   dari referensi:
+
+   ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/20a47d92-71b4-44a1-b01f-647ffee7ae71)
+   ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/50ba5f4f-be0b-48cf-96f2-809820ff3d89)
+
+   sistem sekarang:
+
+   ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/b94bf8e4-607e-4157-acce-c7d5d6d664fb)
+   ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/17b15e3b-732d-4642-96fa-30f4a086295d)
+
+2. Halaman "Home"
 
    dari referensi:
 ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/deb9f7c7-6cd8-4a6b-9511-aa18f58ecc75)
@@ -19,7 +29,7 @@ https://github.com/RafyMrX/TOKO-ONLINE-ROTI
    sistem sekarang:
 ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/2b175d91-a344-4bb3-879c-bf7a2606c09d)
 
-2. Halaman "Produk"
+3. Halaman "Produk"
   
    dari referensi:
 
@@ -30,7 +40,7 @@ https://github.com/RafyMrX/TOKO-ONLINE-ROTI
    ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/44415c9c-6027-4498-868b-be4667c1607f)
 
 
-3. Halaman "Informasi"
+4. Halaman "Informasi"
 
    dari referensi:
 
