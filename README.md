@@ -3,9 +3,11 @@ Project Toko Roti Online Lengkap dengan proses manufacturing dilengkapi dengan h
 
 UNTUK MASUK HALAMAN ADMIN SILAHKAN MASUK DENGAN MENAMBAHKAN /admin di akhir URL
 
-# Referensi: https://github.com/RafyMrX/TOKO-ONLINE-ROTI
+# Referensi
 
-# Perbandingan:
+https://github.com/RafyMrX/TOKO-ONLINE-ROTI
+
+# Perbandingan
 1. Halaman Home
 
    Terdapat perbedaan warna header dan footer dari tampilan halaman.
