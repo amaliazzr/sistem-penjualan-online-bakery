@@ -23,7 +23,7 @@ https://github.com/RafyMrX/TOKO-ONLINE-ROTI
   
    dari referensi:
 
-   ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/6c0f44ec-bbee-4816-afa0-3ac85a0876a8)
+   ![Screenshot 2024-04-12 193349](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/2a59d1fa-b9f3-4dc4-9917-eeef1b28cc4e)
 
    sistem sekarang:
 
