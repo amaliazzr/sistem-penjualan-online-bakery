@@ -1,0 +1,16 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.top{
+	background-color: #0c4819;
+	color: #fff;
+}
+.judul{
+	font-size: 12pt;
+    padding: 20px;
+    font-weight: bold;
+}
+.link{
+	margin-top: 50px;
+}
