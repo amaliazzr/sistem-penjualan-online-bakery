@@ -22,7 +22,7 @@ https://github.com/RafyMrX/TOKO-ONLINE-ROTI
    ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/b94bf8e4-607e-4157-acce-c7d5d6d664fb)
    ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/17b15e3b-732d-4642-96fa-30f4a086295d)
 
-3. Halaman "Home"
+2. Halaman "Home"
 
    dari referensi:
 ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/deb9f7c7-6cd8-4a6b-9511-aa18f58ecc75)
@@ -30,7 +30,7 @@ https://github.com/RafyMrX/TOKO-ONLINE-ROTI
    sistem sekarang:
 ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/2b175d91-a344-4bb3-879c-bf7a2606c09d)
 
-4. Halaman "Produk"
+3. Halaman "Produk"
   
    dari referensi:
 
@@ -41,7 +41,7 @@ https://github.com/RafyMrX/TOKO-ONLINE-ROTI
    ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/44415c9c-6027-4498-868b-be4667c1607f)
 
 
-5. Halaman "Informasi"
+4. Halaman "Informasi"
 
    dari referensi:
 
@@ -53,6 +53,16 @@ https://github.com/RafyMrX/TOKO-ONLINE-ROTI
 
    ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/4e497b1a-7c87-47bb-b5cb-04d01dc3d9ae)
 
+5. Menu "Data Master - Master Produk"
+
+   dari referensi:
+
+   ![Screenshot 2024-04-12 192032](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/58560ab8-905f-49db-88cc-9211020eac91)
+
+
+   sistem sekarang:
+
+   ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/c78bf6fa-c4c6-497e-8174-b4a82438cec5)
 
 
 # ERD
