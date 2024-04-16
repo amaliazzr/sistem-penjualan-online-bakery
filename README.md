@@ -7,7 +7,9 @@ Referensi: https://github.com/RafyMrX/TOKO-ONLINE-ROTI
 
 Perbandingan:
 1. Halaman Home
+
    Terdapat perbedaan warna header dan footer dari tampilan halaman.
+
    dari referensi:
 ![image](https://github.com/amaliazzr/sistem-penjualan-online-bakery/assets/152155151/deb9f7c7-6cd8-4a6b-9511-aa18f58ecc75)
 
